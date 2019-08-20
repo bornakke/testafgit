@@ -1,2 +1,3 @@
-Print ("Enter Name")
-raw_input('-->>')
+print('Enter your name:')
+x = input()
+print('Hello, ' + x) 
